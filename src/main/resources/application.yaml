@@ -1,0 +1,11 @@
+server:
+   port: 8082
+   servlet:
+      session:
+         timeout: 3600000
+spring:
+   datasource:
+      driverClassName: oracle.jdbc.driver.OracleDriver
+      password: solution
+      url: jdbc:oracle:thin:@127.0.0.1:1521:ORCL
+      username: air_forecast
