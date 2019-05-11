@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.yml
+*/target
+*.class
+target/
+.project
+.settings/
+.classpath
+/parent/.idea/workspace.xml
+/parent/.idea/*.xml
